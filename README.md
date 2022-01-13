@@ -1,1 +1,1 @@
-# vanilla-js-practice-chrome-appㅏㅏㅏㅏ
+# vanilla-js-practice-chrome-app
